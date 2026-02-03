@@ -440,16 +440,17 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/al-folio/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-founded-the-und-biology-club-creating-a-hub-for-undergraduate-research-mentoring-and-faculty-seminars",
+          title: 'Founded the UND Biology Club, creating a hub for undergraduate research mentoring and...',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-organized-north-dakota-s-first-state-wide-datathon-with-sponsorships-from-sanford-health-and-nd-epscor-leading-workshops-on-python-and-machine-learning",
+          title: 'Organized North Dakota’s first state-wide Datathon with sponsorships from Sanford Health and ND...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/al-folio/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-joined-the-babu-lab-in-the-department-of-structural-biology-at-st-jude-children-s-research-hospital-to-begin-phd-training-in-computational-structural-biology",
+          title: 'Joined the Babu Lab in the Department of Structural Biology at St. Jude...',
+          description: "",
+          section: "News",},{id: "news-successfully-passed-my-qualifying-exam-and-advanced-to-phd-candidacy-at-st-jude-graduate-school",
+          title: 'Successfully passed my qualifying exam and advanced to PhD candidacy at St. Jude...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
@@ -507,25 +508,18 @@ ninja.data = [{
           section: "Teachings",handler: () => {
               window.location.href = "/al-folio/teachings/introduction-to-machine-learning/";
             },},{
-        id: 'social-cv',
-        title: 'CV',
-        section: 'Socials',
-        handler: () => {
-          window.open("/al-folio/assets/pdf/example_pdf.pdf", "_blank");
-        },
-      },{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%79%6F%75@%65%78%61%6D%70%6C%65.%63%6F%6D", "_blank");
+          window.open("mailto:%6B%69%6E%63%61%69%64.%72%6F%77%62%6F%74%68%61%6D@%73%74%6A%75%64%65.%6F%72%67", "_blank");
         },
       },{
-        id: 'social-inspire',
-        title: 'Inspire HEP',
+        id: 'social-github',
+        title: 'GitHub',
         section: 'Socials',
         handler: () => {
-          window.open("https://inspirehep.net/authors/1010907", "_blank");
+          window.open("https://github.com/kincaidrowboth", "_blank");
         },
       },{
         id: 'social-rss',
@@ -533,20 +527,6 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("/al-folio/feed.xml", "_blank");
-        },
-      },{
-        id: 'social-scholar',
-        title: 'Google Scholar',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://scholar.google.com/citations?user=qc6CJjYAAAAJ", "_blank");
-        },
-      },{
-        id: 'social-custom_social',
-        title: 'Custom_social',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://www.alberteinstein.com/", "_blank");
         },
       },{
       id: 'light-theme',
