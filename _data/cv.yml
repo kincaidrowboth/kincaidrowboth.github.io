@@ -23,7 +23,7 @@ cv:
         area: Biomedical Sciences
         studyType: PhD
         start_date: 2023
-        end_date: 2028 (expected)
+        end_date: present
         highlights:
           - Training in the Department of Structural Biology under Dr. M. Madan Babu
           - Completed all required coursework and passed qualifying exam
@@ -55,7 +55,7 @@ cv:
         location: St. Jude Children's Research Hospital, Memphis, TN
         url: https://www.stjude.org/directory/b/madan-babu.html
         start_date: 2023
-        end_date: Present
+        end_date: present
         summary: Investigating influenza A virus adaptation using structural and evolutionary frameworks. Research focuses on modeling Baloxavir resistance in PA protein and predicting N-glycosylation motif emergence on hemagglutinin.
         highlights:
           - Contributed to Science Advances publication on Baloxavir efficacy against H5N1
@@ -93,45 +93,63 @@ cv:
           - Built NGS processing pipeline using bash and Python
           - Mentored undergraduate students (Brienna Hanson, Alexandria Rios Diaz)
 
-    Volunteer: []
+    Volunteer:
+      - company: UND Biology Club
+        position: Founder & President
+        location: University of North Dakota, Grand Forks, ND
+        start_date: 2020
+        end_date: 2022
+        summary: Founded and led campus biology club growing to 71 members. Created a hub for student mentoring and organized faculty seminars.
+        highlights:
+          - Organized North Dakota's first state-wide Datathon with sponsorships from Sanford Health and ND EPSCoR
+          - Led workshops on Python coding and machine learning fundamentals
+          - Hosted Skaggs School of Pharmacy and Xcel Energy STEM initiative
+
+      - company: National Scholarship Peer Advisors (NSPA)
+        position: Founding Member & Administrator
+        location: University of North Dakota, Grand Forks, ND
+        start_date: 2020
+        end_date: 2022
+        summary: Implemented systems to connect students with fellowship opportunities and mentors.
+        highlights:
+          - Assisted students through national scholarship applications
+          - Constructed timelines, routine meetings, and resources for applicants
+
+      - company: Milavetz Lab
+        position: Undergraduate Mentor
+        location: University of North Dakota, Grand Forks, ND
+        start_date: 2020
+        end_date: 2022
+        summary: Taught lab techniques and etiquette to peer undergraduate students (Brienna Hanson, Alexandria Rios Diaz).
 
     Awards:
       - title: ASPET-SURF Fellowship
         date: 2021
         awarder: American Society for Pharmacology and Experimental Therapeutics
         summary: Summer Undergraduate Research Fellowship supporting research in the Milavetz Lab.
+        authors:
+          - Kincaid S. Rowbotham
 
       - title: ND-EPSCoR Undergraduate Research Grant
-        date: 2020-2021
+        date: 2020
         awarder: North Dakota EPSCoR
         summary: Competitive research grant supporting undergraduate research projects.
+        authors:
+          - Kincaid S. Rowbotham
 
       - title: NSF S-STEM US MASTERS Scholarship
-        date: 2019-2023
+        date: 2019
         awarder: National Science Foundation
         summary: Four-year scholarship supporting STEM students.
+        authors:
+          - Kincaid S. Rowbotham
 
       - title: UND Honors College
-        date: 2018-2022
+        date: 2018
         awarder: University of North Dakota
         summary: Membership in the UND Honors College throughout undergraduate career.
-
-    Leadership & Outreach:
-      - title: Founder & President, UND Biology Club
-        date: 2020-2022
-        summary: Founded and led campus biology club growing to 71 members. Created a hub for student mentoring, organized faculty seminars, and hosted external institutions (Skaggs School of Pharmacy, Xcel Energy STEM initiative) to spread awareness of scholastic opportunities.
-
-      - title: Organizer, North Dakota's First State-wide Datathon
-        date: 2021
-        summary: Organized and hosted North Dakota's first state-wide Datathon with sponsorships from Sanford Health and ND EPSCoR. Led workshops on Python coding and machine learning fundamentals.
-
-      - title: Founding Member & Administrator, National Scholarship Peer Advisors (NSPA)
-        date: 2020-2022
-        summary: Implemented systems to connect students with fellowship opportunities and mentors. Assisted students through national scholarship applications by constructing timelines, routine meetings, and providing resources.
-
-      - title: Undergraduate Mentor
-        date: 2020-2022
-        summary: Taught lab techniques and etiquette to peer undergraduate students in the Milavetz Lab.
+        authors:
+          - Kincaid S. Rowbotham
 
     Skills:
       - name: Programming
