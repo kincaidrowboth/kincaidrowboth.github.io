@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: PhD Candidate, <a href='https://www.stjude.org/research/departments/structural-biology.html'>Department of Structural Biology</a>, St. Jude Children's Research Hospital
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Department of Structural Biology</p>
+    <p>St. Jude Children's Research Hospital</p>
+    <p>Memphis, TN</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -22,13 +22,13 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+My long-term goal is to become an independent investigator at the interface of structural biology, computational biomedicine, and infectious disease. Viruses are relatively simple in the sense that they carry little into the cell but are complex in the way that they manipulate the host's machinery to their bidding. I aim to build a career that leverages multiple data modalities to investigate the complex interplay in the field of infectious diseases.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am currently a PhD candidate in Biomedical Sciences at the [St. Jude Graduate School](https://www.stjude.org/education-training/predoctoral-training/graduate-school.html), having completed all required coursework and passed my qualifying exam. I train under the mentorship of [Dr. M. Madan Babu](https://www.stjude.org/directory/b/madan-babu.html), a leader in multidisciplinary, structure-focused computational biology, in the Department of Structural Biology.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My research explores how glycosylation motifs emerge and persist on influenza A hemagglutinin, using sequence analysis, structural modeling, and immune accessibility profiling. This work builds upon my previous experience in genomics data and machine learning, extending it into the structural domain.

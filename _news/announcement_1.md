@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2025-01-15 09:00:00-0600
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Our paper on **Baloxavir efficacy against H5N1 influenza** has been accepted for publication in *Science Advances*! 🎉
